@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.78.30747.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.493%0D%0AThe%20point%20is%20%E2%80%93%20do%20your%20best%20to%20make%20each%20course%20as%20accessible%20as%20your%20budget%20and%20time%20allows.%0D%0A%0D%0A"}')

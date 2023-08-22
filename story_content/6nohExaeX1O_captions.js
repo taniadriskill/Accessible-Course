@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.78.30747.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.553%0D%0AWhat%20is%20a%20physical%20disability?%20%20Select%20each%20card%20to%20learn%20more.%0D%0A%0D%0A"}')
